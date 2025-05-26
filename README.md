@@ -8,8 +8,8 @@ Backstory: I used to be a reseller selling thousands of dollars per month of ret
             2. How much can I sell this item for?
             3. How fast can I sell it?
             
-            This project serves to help resellers answer #2 and #3 by using eBay completed listings data through an eBay developer api call that takes an item name given by a user and checks
-            how often the item has sold in the last 3 months and for what average price.
+This project serves to help resellers answer #2 and #3 by using eBay completed listings data through an eBay developer api call that takes an item name given by a user and checks
+how often the item has sold in the last 3 months and for what average price.
             
 By simply typing in the name of a product into this chrome extension, resellers which would be the target audience, can quickly know if they have a profitable item opportunity.
 
