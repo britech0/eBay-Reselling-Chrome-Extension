@@ -23,4 +23,5 @@ How to use:
 4. Apply the google chrome extension permissions
    
     
-![eBay Reselling Chrome Extension](https://github.com/user-attachments/assets/bb49655b-d8d4-4af3-92b2-5fcf329924c9)
+![ebay screenshot](https://github.com/user-attachments/assets/3f2e8f06-6453-4ce7-a92c-6c22bfcdefa1)
+
